@@ -489,10 +489,10 @@ lst.reverse()
 ```py
 fruits = ['banana', 'orange', 'mango', 'lemon']
 fruits.reverse()
-print(fruits.reverse())
+print(fruits)
 ages = [22, 19, 24, 25, 26, 24, 25, 24]
 ages.reverse()
-print(ages.reverse())
+print(ages)
 ```
 
 ```py
